@@ -1,0 +1,11 @@
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.exe
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.deps.json
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.runtimeconfig.json
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.runtimeconfig.dev.json
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.dll
+C:\Users\Вова\source\repos\ООП11\ООП11\bin\Debug\netcoreapp3.0\ООП11.pdb
+C:\Users\Вова\source\repos\ООП11\ООП11\obj\Debug\netcoreapp3.0\ООП11.csprojAssemblyReference.cache
+C:\Users\Вова\source\repos\ООП11\ООП11\obj\Debug\netcoreapp3.0\ООП11.AssemblyInfoInputs.cache
+C:\Users\Вова\source\repos\ООП11\ООП11\obj\Debug\netcoreapp3.0\ООП11.AssemblyInfo.cs
+C:\Users\Вова\source\repos\ООП11\ООП11\obj\Debug\netcoreapp3.0\ООП11.dll
+C:\Users\Вова\source\repos\ООП11\ООП11\obj\Debug\netcoreapp3.0\ООП11.pdb

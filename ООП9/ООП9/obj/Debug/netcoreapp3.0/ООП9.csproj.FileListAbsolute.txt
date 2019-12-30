@@ -1,0 +1,11 @@
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.exe
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.deps.json
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.runtimeconfig.json
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.runtimeconfig.dev.json
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.dll
+C:\Users\Вова\source\repos\ООП9\ООП9\bin\Debug\netcoreapp3.0\ООП9.pdb
+C:\Users\Вова\source\repos\ООП9\ООП9\obj\Debug\netcoreapp3.0\ООП9.csprojAssemblyReference.cache
+C:\Users\Вова\source\repos\ООП9\ООП9\obj\Debug\netcoreapp3.0\ООП9.AssemblyInfoInputs.cache
+C:\Users\Вова\source\repos\ООП9\ООП9\obj\Debug\netcoreapp3.0\ООП9.AssemblyInfo.cs
+C:\Users\Вова\source\repos\ООП9\ООП9\obj\Debug\netcoreapp3.0\ООП9.dll
+C:\Users\Вова\source\repos\ООП9\ООП9\obj\Debug\netcoreapp3.0\ООП9.pdb

@@ -1,0 +1,6 @@
+C:\Users\csdmm\source\repos\ООП15\ООП15\bin\Debug\ООП15.exe.config
+C:\Users\csdmm\source\repos\ООП15\ООП15\bin\Debug\ООП15.exe
+C:\Users\csdmm\source\repos\ООП15\ООП15\bin\Debug\ООП15.pdb
+C:\Users\csdmm\source\repos\ООП15\ООП15\obj\Debug\ООП15.csprojAssemblyReference.cache
+C:\Users\csdmm\source\repos\ООП15\ООП15\obj\Debug\ООП15.exe
+C:\Users\csdmm\source\repos\ООП15\ООП15\obj\Debug\ООП15.pdb

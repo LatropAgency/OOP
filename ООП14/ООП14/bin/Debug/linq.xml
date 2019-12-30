@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<city>
+  <user name="vova">
+    <pass>null</pass>
+  </user>
+  <user name="gena">
+    <pass>1234</pass>
+  </user>
+</city>

@@ -1,0 +1,9 @@
+C:\Users\csdmm\source\repos\ООП14\ООП14\obj\Debug\ООП14.csprojAssemblyReference.cache
+C:\Users\csdmm\source\repos\ООП14\ООП14\bin\Debug\ООП14.exe.config
+C:\Users\csdmm\source\repos\ООП14\ООП14\bin\Debug\ООП14.exe
+C:\Users\csdmm\source\repos\ООП14\ООП14\bin\Debug\ООП14.pdb
+C:\Users\csdmm\source\repos\ООП14\ООП14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csdmm\source\repos\ООП14\ООП14\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csdmm\source\repos\ООП14\ООП14\obj\Debug\ООП14.csproj.CopyComplete
+C:\Users\csdmm\source\repos\ООП14\ООП14\obj\Debug\ООП14.exe
+C:\Users\csdmm\source\repos\ООП14\ООП14\obj\Debug\ООП14.pdb

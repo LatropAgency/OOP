@@ -1,0 +1,6 @@
+C:\Users\csdmm\source\repos\ООП13\ООП13\obj\Debug\ООП13.csprojAssemblyReference.cache
+C:\Users\csdmm\source\repos\ООП13\ООП13\bin\Debug\ООП13.exe.config
+C:\Users\csdmm\source\repos\ООП13\ООП13\bin\Debug\ООП13.exe
+C:\Users\csdmm\source\repos\ООП13\ООП13\bin\Debug\ООП13.pdb
+C:\Users\csdmm\source\repos\ООП13\ООП13\obj\Debug\ООП13.exe
+C:\Users\csdmm\source\repos\ООП13\ООП13\obj\Debug\ООП13.pdb

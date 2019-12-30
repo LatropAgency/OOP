@@ -1,0 +1,114 @@
+$RECYCLE.BIN
+AMT
+CIT
+Config.Msi
+LP
+MarvelDc
+Microsoft Visual Studio2019
+Plug-ins
+Presets
+Program Files (x86)
+ProgramData
+Required
+server
+System Volume Information
+Telegram Desktop
+Torrent
+VB
+virtual machine
+VS
+win client 2
+win7
+Windows Kits
+WUDownloadCache
+x64
+игиг
+Курсовой
+ООП
+Программы
+1.mhtml
+10CS_рефлексия.pdf
+11CS_Файловая_система_потоквые классы.pdf
+11_LINQ.pdf
+12_Рефлексия (1).pdf
+12_Рефлексия.pdf
+13CS_Сериализация.pdf
+13_Потоки_файловая система (1).pdf
+13_Потоки_файловая система.pdf
+14CS_XML_КлассыNet.pdf
+14_Разработка лексического распознавателя (IV).docx
+14_Сериализация.pdf
+15CS_Многопоточность.pdf
+15_Работа с потоками.pdf
+16_Платформа_параллельных вычислений.pdf
+17CS_ЖЦ_объектов.pdf
+17_Введение_Ассембблер.pdf
+3 (1).pdf
+3.pdf
+3_Проектирование типов_классы.pdf
+4CS_перегрузка_операций.pdf
+4_Перегрузка_методы_расширения.pdf
+6CS_Исключения (1).pdf
+6CS_Исключения.pdf
+6_Структуры_перечисления_контейнеры_контроллеры.pdf
+7.pdf
+7CS_Обобщения (1).pdf
+7CS_Обобщения (2).pdf
+7CS_Обобщения (3).pdf
+7CS_Обобщения.pdf
+7_Исключения.pdf
+8.pdf
+8_Обощения.pdf
+9CS_коллекции_LINQ.pdf
+BraveBrowserSetup-POL552.exe
+BraveBrowserSetup-PRO842.exe
+chert4bezB.cdw
+Chertezh.cdw
+heroku-x64.exe
+Json120r3.zip
+kr.html
+kt2.html
+LP_asm01e.asm
+nya.docx
+Poyasnitelnaya_zapiska.docx
+referat.docx
+RGZ-3_1.cdw
+sK-G7UBSQu0.jpg
+Synthesia-10.6-installer.exe
+Synthesia.torrent
+Test_3.tar
+TogglDesktopInstaller-x64-7.4.1023.exe
+ultraiso.zip
+Vad_16.cdw
+Val.pdf
+val1.cdw
+val1.cdw.bak
+val1.pdf
+val2.pdf
+Val_5.cdw.bak
+win7_ult_sp1_russian_x64.iso.torrent
+xpath_demo_usage.xmlz
+ZadaniyaRGZ--1--RGZ-3-i-nov-nomera-ris.pdf
+zayavlenie_uvedomlenie_o_vozmozhnosti (1).doc
+zayavlenie_uvedomlenie_o_vozmozhnosti.doc
+zayavlenie_uvedomlenie_o_vozmozhnosti_1.doc
+zayavlenie_uvedomlenie_o_vozmozhnosti_1_doc_5 (1).doc
+zayavlenie_uvedomlenie_o_vozmozhnosti_1_doc_5.doc
+zayavlenie_uvedomlenie_o_vozmozhnosti_1_doc_5_1 (1).doc
+zayavlenie_uvedomlenie_o_vozmozhnosti_1_doc_5_1.doc
+[psiflame.ru]Virtual-Piano.torrent
+[zgame.org]virtual-piano-2013.torrent
+График защиты КП (ЯП 2019).doc
+Задание на КП.docx
+Лекция 18 Лексический анализатор.pdf
+Лекция 19 АлгоритмыСинтаксическогоРазбора_обновлен.pdf
+Лекция 21 Разбор_Лабораторной_16.pdf
+Лекция 22 Создание нового языка программирования .pdf
+Лекция 23 Семантический анализ и подготовка к генерации кода.pdf
+Спецификация.docx
+ЯП КП Варианты заданий.docx
+ЯП КП. Методические указания.pdf
+ЯП15_Преобразование выражений (1).pdf
+ЯП15_Преобразование выражений.pdf
+ЯП16_Разработка синтаксического анализатора (1).pdf
+ЯП16_Разработка синтаксического анализатора.pdf

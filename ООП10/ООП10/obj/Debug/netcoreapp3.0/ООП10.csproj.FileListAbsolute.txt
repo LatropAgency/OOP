@@ -1,0 +1,11 @@
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.exe
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.deps.json
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.runtimeconfig.json
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.runtimeconfig.dev.json
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.dll
+C:\Users\Вова\source\repos\ООП10\ООП10\bin\Debug\netcoreapp3.0\ООП10.pdb
+C:\Users\Вова\source\repos\ООП10\ООП10\obj\Debug\netcoreapp3.0\ООП10.csprojAssemblyReference.cache
+C:\Users\Вова\source\repos\ООП10\ООП10\obj\Debug\netcoreapp3.0\ООП10.AssemblyInfoInputs.cache
+C:\Users\Вова\source\repos\ООП10\ООП10\obj\Debug\netcoreapp3.0\ООП10.AssemblyInfo.cs
+C:\Users\Вова\source\repos\ООП10\ООП10\obj\Debug\netcoreapp3.0\ООП10.dll
+C:\Users\Вова\source\repos\ООП10\ООП10\obj\Debug\netcoreapp3.0\ООП10.pdb

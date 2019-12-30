@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfEngine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Engine>
+    <Status>OFF</Status>
+    <Power>100</Power>
+  </Engine>
+  <Engine>
+    <Status>OFF</Status>
+    <Power>200</Power>
+  </Engine>
+</ArrayOfEngine>

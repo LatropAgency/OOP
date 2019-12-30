@@ -1,0 +1,32 @@
+Общие сведения: 
+FullName:   [ООП12.user]
+Name:   [user]
+BaseType:   [System.Object]
+IsSealed:  [False]
+IsInterface:   [False]
+IsClass:   [True]
+IsAbstract:    [False]
+IsEnum:    [False]
+IsArray:   [False]
+Методы:
+    [System.String get_Name()]
+    [Void set_Name(System.String)]
+    [Int32 get_Age()]
+    [Void set_Age(Int32)]
+    [Void Hi(System.String)]
+    [Int32 CompareTo(ООП12.user)]
+    [System.Type GetType()]
+    [System.String ToString()]
+    [Boolean Equals(System.Object)]
+    [Int32 GetHashCode()]
+Свойства:
+   [System.String Name]
+   [Int32 Age]
+Конструкторы:
+   [Void .ctor()]
+   [Void .ctor(System.String, Int32)]
+Поля:
+Интерфейсы:
+   [System.IComparable`1[ООП12.user]]
+Задание 'e':
+   [CompareTo]
